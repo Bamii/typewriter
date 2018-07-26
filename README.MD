@@ -5,7 +5,7 @@ This is a module that effects the typewriter animation for your webpage.
 - Download the 'typewriter.js' file and include it in your project. 
 - Include it in your html file () or whichever file you want to use it with
 - Change the id attribute of the element you want to add the animation to "typewriter". e.g id="typewriter" <br />
-Voila! That's the end. The animation is coming soon.
+Voila! That's the end. The animation starts.
 
 ## Code Sample
 ```
